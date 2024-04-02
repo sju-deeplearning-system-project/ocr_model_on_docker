@@ -1,0 +1,1216 @@
+[0/300000] Loss: 7.10128 elapsed_time: 12.82982
+                    , gt: 양배추샐러드              ,   False
+                    , gt: 맥주                  ,   False
+                    , gt: 날생선                 ,   False
+                    , gt: 황태구이                ,   False
+                    , gt: 집다                  ,   False
+[0/300000] valid loss: 6.91520 accuracy: 0.000, norm_ED: 11977.00
+best_accuracy: 0.000, best_norm_ED: 11977.00
+[0/300000] Loss: 7.10128 elapsed_time: 13.86166
+                    , gt: 양배추샐러드              ,   False
+                    , gt: 맥주                  ,   False
+                    , gt: 날생선                 ,   False
+                    , gt: 황태구이                ,   False
+                    , gt: 집다                  ,   False
+[0/300000] valid loss: 6.91520 accuracy: 0.000, norm_ED: 11977.00
+best_accuracy: 0.000, best_norm_ED: 11977.00
+[2000/300000] Loss: 3.58552 elapsed_time: 469.69323
+매스리떡해               , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+불부미세트               , gt: 흑근고기세트              ,   False
+소계탕                 , gt: 조개탕                 ,   False
+꼬다매운탕               , gt: 코다리매운탕              ,   False
+생반짬뽕                , gt: 쟁반짬뽕                ,   False
+[2000/300000] valid loss: 2.24168 accuracy: 15.546, norm_ED: 6819.15
+best_accuracy: 15.546, best_norm_ED: 6819.15
+[4000/300000] Loss: 0.91602 elapsed_time: 924.13185
+미도등심&테테이크           , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+돼지갈비찜               , gt: 돼지갈비찜               ,   True
+돈불백비빔밥              , gt: 돈불백비빔밥              ,   True
+육전황통비빔냉면            , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+김말이                 , gt: 김말이                 ,   True
+[4000/300000] valid loss: 0.58947 accuracy: 57.978, norm_ED: 3549.11
+best_accuracy: 57.978, best_norm_ED: 3549.11
+[6000/300000] Loss: 0.41269 elapsed_time: 1377.27284
+드라콜라                , gt: 드라큘라                ,   False
+커리천날개               , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+양참피                 , gt: 양                   ,   False
+왕돈까스                , gt: 왕돈까스                ,   True
+맥주                  , gt: 맥주                  ,   True
+[6000/300000] valid loss: 0.33851 accuracy: 68.339, norm_ED: 3038.66
+best_accuracy: 68.339, best_norm_ED: 3038.66
+[8000/300000] Loss: 0.26004 elapsed_time: 1833.14887
+갈릭베이컨유부             , gt: 갈리베이컨유부             ,   False
+발팥                  , gt: 발끝                  ,   False
+산야초정식               , gt: 산야초정식               ,   True
+직화더덕제육볶음            , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+보쌈도시락               , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+[8000/300000] valid loss: 0.25573 accuracy: 72.322, norm_ED: 2793.19
+best_accuracy: 72.322, best_norm_ED: 2793.19
+[10000/300000] Loss: 0.19226 elapsed_time: 2293.94954
+입장                  , gt: 입장                  ,   True
+누룽지                 , gt: 누릉지                 ,   False
+주다                  , gt: 주다                  ,   True
+방울토마토               , gt: 방울토마토               ,   True
+부채살스테이크             , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+[10000/300000] valid loss: 0.20905 accuracy: 74.368, norm_ED: 2707.03
+best_accuracy: 74.368, best_norm_ED: 2707.03
+[12000/300000] Loss: 0.15301 elapsed_time: 2742.26868
+수제비                 , gt: 수제비                 ,   True
+목살                  , gt: 목살                  ,   True
+핫후라이드               , gt: 핫후라이드               ,   True
+핫스파이스치킨             , gt: 핫스파이스치킨             ,   True
+공기밥추가               , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+[12000/300000] valid loss: 0.21015 accuracy: 75.228, norm_ED: 2640.24
+best_accuracy: 75.228, best_norm_ED: 2640.24
+[14000/300000] Loss: 0.12313 elapsed_time: 3200.26796
+명동관낙지볶음             , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+새우튀김                , gt: 새우튀김                ,   True
+설렁탕                 , gt: 설렁탕                 ,   True
+묵은지김치소면             , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+생강                  , gt: 생강                  ,   True
+[14000/300000] valid loss: 0.15004 accuracy: 76.872, norm_ED: 2595.04
+best_accuracy: 76.872, best_norm_ED: 2595.04
+[16000/300000] Loss: 0.10315 elapsed_time: 3653.25721
+동태찌개                , gt: 동태찌개                ,   True
+월남쌈샤브               , gt: 월남쌈샤브               ,   True
+메밀전병                , gt: 메밀전병                ,   True
+홍어한접시               , gt: 홍어한접시               ,   True
+아라비아파치킨리조또          , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+[16000/300000] valid loss: 0.14272 accuracy: 77.398, norm_ED: 2535.17
+best_accuracy: 77.398, best_norm_ED: 2535.17
+[18000/300000] Loss: 0.08750 elapsed_time: 4112.66729
+오뎅탕                 , gt: 오뎅탕                 ,   True
+삼선짜장                , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+꿀호떡                 , gt: 꿀호떡                 ,   True
+메밀감자비빔밥             , gt: 메밀감자비빔밥             ,   True
+새우튀김                , gt: 새우튀김                ,   True
+[18000/300000] valid loss: 0.15414 accuracy: 77.640, norm_ED: 2555.13
+best_accuracy: 77.640, best_norm_ED: 2535.17
+[20000/300000] Loss: 0.07469 elapsed_time: 4568.19580
+해물칼국수               , gt: 해물칼국수               ,   True
+전가복                 , gt: 전가복                 ,   True
+양장피                 , gt: 양장피                 ,   True
+명란토리나베              , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+된장찌개                , gt: 된장찌개                ,   True
+[20000/300000] valid loss: 0.11858 accuracy: 78.317, norm_ED: 2516.17
+best_accuracy: 78.317, best_norm_ED: 2516.17
+[22000/300000] Loss: 0.06559 elapsed_time: 5016.72058
+마라샹궈                , gt: 마라샹궈                ,   True
+가츠덮밥+온메밀            , gt: 가츠덮밥+온메밀            ,   True
+쟁반해물짬뽕              , gt: 쟁반해물짬뽕              ,   True
+모닝글로리               , gt: 모닝글로리               ,   True
+복분자                 , gt: 복분자                 ,   True
+[22000/300000] valid loss: 0.13060 accuracy: 78.392, norm_ED: 2522.93
+best_accuracy: 78.392, best_norm_ED: 2516.17
+[24000/300000] Loss: 0.05945 elapsed_time: 5477.52767
+회냉면                 , gt: 회냉면                 ,   True
+볶음밥                 , gt: 볶음밥                 ,   True
+공기밥                 , gt: 공기밥                 ,   True
+열무국수                , gt: 열무국수                ,   True
+로브스터구이              , gt: 로브스터구이              ,   True
+[24000/300000] valid loss: 0.11844 accuracy: 78.484, norm_ED: 2491.41
+best_accuracy: 78.484, best_norm_ED: 2491.41
+[26000/300000] Loss: 0.05437 elapsed_time: 5928.49592
+순대만or곱창만철판볶음        , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+영양한우갈비탕             , gt: 영양한우갈비탕             ,   True
+메밀전병                , gt: 메밀전병                ,   True
+불족추가                , gt: 불족추가                ,   True
+트러플모듬버섯피자           , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+[26000/300000] valid loss: 0.11386 accuracy: 78.567, norm_ED: 2461.79
+best_accuracy: 78.567, best_norm_ED: 2461.79
+[28000/300000] Loss: 0.04824 elapsed_time: 6387.01509
+치즈                  , gt: 치즈                  ,   True
+탄탄면                 , gt: 탄탄면                 ,   True
+동파육                 , gt: 동파육                 ,   True
+연태고량주               , gt: 연태고량주               ,   True
+생대구탕,지리             , gt: 생대구탕,지리             ,   True
+[28000/300000] valid loss: 0.11879 accuracy: 78.718, norm_ED: 2442.07
+best_accuracy: 78.718, best_norm_ED: 2442.07
+[30000/300000] Loss: 0.04315 elapsed_time: 6846.07084
+성게알                 , gt: 성게알                 ,   True
+생새우초밥               , gt: 생새우초밥               ,   True
+고등어김치찜              , gt: 고등어김치찜              ,   True
+새우볶음밥               , gt: 새우볶음밥               ,   True
+시원하다                , gt: 시원하다                ,   True
+[30000/300000] valid loss: 0.10617 accuracy: 78.784, norm_ED: 2456.94
+best_accuracy: 78.784, best_norm_ED: 2442.07
+[32000/300000] Loss: 0.04429 elapsed_time: 7308.07082
+에비텐동                , gt: 에비텐동                ,   True
+만두뚝배기               , gt: 만두뚝배기               ,   True
+삼기탕                 , gt: 삼계탕                 ,   False
+월남쌈                 , gt: 월남쌈                 ,   True
+낙지연포탕               , gt: 낙지연포탕               ,   True
+[32000/300000] valid loss: 0.10642 accuracy: 78.626, norm_ED: 2465.45
+best_accuracy: 78.784, best_norm_ED: 2442.07
+[34000/300000] Loss: 0.03694 elapsed_time: 7765.82284
+돈까스김밥               , gt: 돈까스김밥               ,   True
+병맥주                 , gt: 병맥주                 ,   True
+어린이메뉴세트             , gt: 어린이메뉴세트             ,   True
+차돌소곱창볶음             , gt: 차돌소곱창볶음             ,   True
+오나로                 , gt: 모나코                 ,   False
+[34000/300000] valid loss: 0.11203 accuracy: 79.118, norm_ED: 2444.04
+best_accuracy: 79.118, best_norm_ED: 2442.07
+[36000/300000] Loss: 0.03284 elapsed_time: 8217.95822
+회냉면                 , gt: 회냉면                 ,   True
+고춧가루                , gt: 고춧가루                ,   True
+돼지토마호크              , gt: 돼지토마호크              ,   True
+오징어                 , gt: 오징어                 ,   True
+대왕연어초밥              , gt: 대왕연어초밥              ,   True
+[36000/300000] valid loss: 0.09847 accuracy: 79.219, norm_ED: 2430.34
+best_accuracy: 79.219, best_norm_ED: 2430.34
+[38000/300000] Loss: 0.03072 elapsed_time: 8683.11348
+수육                  , gt: 수육                  ,   True
+생크림토스트              , gt: 생크림토스트              ,   True
+돈까스오므라이스            , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+땅콩가루                , gt: 땅콩가루                ,   True
+삼선상스피니밥             , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+[38000/300000] valid loss: 0.10231 accuracy: 79.177, norm_ED: 2424.39
+best_accuracy: 79.219, best_norm_ED: 2424.39
+[40000/300000] Loss: 0.02783 elapsed_time: 9137.65583
+꽃게                  , gt: 꽃게                  ,   True
+동그라미오이              , gt: 동그라미오이              ,   True
+크림                  , gt: 크림                  ,   True
+소박돌박이               , gt: 소박돌박이               ,   True
+생삼겹살                , gt: 생삼겹살                ,   True
+[40000/300000] valid loss: 0.09606 accuracy: 79.477, norm_ED: 2400.35
+best_accuracy: 79.477, best_norm_ED: 2400.35
+[42000/300000] Loss: 0.02490 elapsed_time: 9598.89094
+떡사리                 , gt: 떡사리                 ,   True
+고추삼선짬뽕밥             , gt: 고추삼선짬뽕밥             ,   True
+마파연두부덮밥             , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+참치김치김밥              , gt: 참치김치김밥              ,   True
+백합떡국                , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+[42000/300000] valid loss: 0.10219 accuracy: 79.502, norm_ED: 2393.36
+best_accuracy: 79.502, best_norm_ED: 2393.36
+[44000/300000] Loss: 0.02520 elapsed_time: 10057.00409
+소주                  , gt: 소주                  ,   True
+제작하다                , gt: 제작하다                ,   True
+매화수                 , gt: 매화수                 ,   True
+선지                  , gt: 선지                  ,   True
+스페셜한우곱창             , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+[44000/300000] valid loss: 0.09786 accuracy: 79.436, norm_ED: 2396.58
+best_accuracy: 79.502, best_norm_ED: 2393.36
+[46000/300000] Loss: 0.02186 elapsed_time: 10524.72340
+닭볶음탕정식              , gt: 닭볶음탕정식              ,   True
+양배추샐러드              , gt: 양배추샐러드              ,   True
+다녀오다                , gt: 다녀오다                ,   True
+해물두루땡면              , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+초벌생삼겹살              , gt: 초벌생삼겹살              ,   True
+[46000/300000] valid loss: 0.11032 accuracy: 79.436, norm_ED: 2395.05
+best_accuracy: 79.502, best_norm_ED: 2393.36
+[48000/300000] Loss: 0.01938 elapsed_time: 10977.13402
+버섯매운탕               , gt: 버섯매운탕               ,   True
+만두국                 , gt: 만두국                 ,   True
+감각                  , gt: 감각                  ,   True
+금지하다                , gt: 금지하다                ,   True
+덮밥                  , gt: 덮밥                  ,   True
+[48000/300000] valid loss: 0.10426 accuracy: 79.494, norm_ED: 2398.75
+best_accuracy: 79.502, best_norm_ED: 2393.36
+[50000/300000] Loss: 0.01982 elapsed_time: 11438.47658
+전주끓이는식콩나물국밥         , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+튀김                  , gt: 튀김                  ,   True
+맥주                  , gt: 맥                   ,   False
+극히                  , gt: 극히                  ,   True
+양푼비빔밥               , gt: 양푼비빔밥               ,   True
+[50000/300000] valid loss: 0.10192 accuracy: 79.427, norm_ED: 2425.70
+best_accuracy: 79.502, best_norm_ED: 2393.36
+[52000/300000] Loss: 0.01970 elapsed_time: 11898.21693
+경쟁                  , gt: 경쟁                  ,   True
+차돌                  , gt: 차돌                  ,   True
+자루소바                , gt: 자루소바                ,   True
+거피편                 , gt: 거피편                 ,   True
+쇠고기육개장              , gt: 쇠고기육개장              ,   True
+[52000/300000] valid loss: 0.09607 accuracy: 79.561, norm_ED: 2387.08
+best_accuracy: 79.561, best_norm_ED: 2387.08
+[54000/300000] Loss: 0.01649 elapsed_time: 12352.37556
+오이양장피               , gt: 오이양장피               ,   True
+감자튀김                , gt: 감자튀김                ,   True
+라면사리추가              , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+소불고쌀국수1+1000s)쉬닭(+반반반반두,,, gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+한우암소갈비살             , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+[54000/300000] valid loss: 0.10716 accuracy: 79.210, norm_ED: 2440.43
+best_accuracy: 79.561, best_norm_ED: 2387.08
+[56000/300000] Loss: 0.01852 elapsed_time: 12817.10900
+명이나물추가              , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+돼지꼬리구이              , gt: 돼지꼬리구이              ,   True
+알밤막걸리               , gt: 알밤막걸리               ,   True
+카레돈까스덮밥             , gt: 카레돈까스덮밥             ,   True
+바지락칼국수              , gt: 바지락칼국수              ,   True
+[56000/300000] valid loss: 0.10261 accuracy: 79.569, norm_ED: 2387.87
+best_accuracy: 79.569, best_norm_ED: 2387.08
+[58000/300000] Loss: 0.01482 elapsed_time: 13272.17258
+바지락조갯국              , gt: 바지락조갯국              ,   True
+스테이크덮밥              , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+김치광어                , gt: 김치광어                ,   True
+싱글통다리세트             , gt: 싱글통다리세트             ,   True
+향라대하                , gt: 향라대하                ,   True
+[58000/300000] valid loss: 0.09436 accuracy: 79.703, norm_ED: 2398.09
+best_accuracy: 79.703, best_norm_ED: 2387.08
+[60000/300000] Loss: 0.01438 elapsed_time: 13728.23222
+카레추가                , gt: 카레추가                ,   True
+한우규동(일본식소고기덮밥)      , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+감자                  , gt: 감자                  ,   True
+하얼빈맥주               , gt: 하얼빈맥주               ,   True
+닭볶음탕                , gt: 닭볶음탕                ,   True
+[60000/300000] valid loss: 0.09537 accuracy: 79.653, norm_ED: 2406.02
+best_accuracy: 79.703, best_norm_ED: 2387.08
+[62000/300000] Loss: 0.01316 elapsed_time: 14182.07743
+송옥우동                , gt: 송옥우동                ,   True
+공기밥                 , gt: 공기밥                 ,   True
+치퐁당윙                , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+음료수                 , gt: 음료수                 ,   True
+가마치텐더               , gt: 가마치텐더               ,   True
+[62000/300000] valid loss: 0.10325 accuracy: 79.678, norm_ED: 2407.64
+best_accuracy: 79.703, best_norm_ED: 2387.08
+[64000/300000] Loss: 0.01328 elapsed_time: 14640.28073
+깔리다                 , gt: 깔리다                 ,   True
+오징엇국                , gt: 오징엇국                ,   True
+재학                  , gt: 재학                  ,   True
+황도과일화채              , gt: 황도과일화채              ,   True
+새우롤                 , gt: 새우롤                 ,   True
+[64000/300000] valid loss: 0.10596 accuracy: 79.461, norm_ED: 2398.20
+best_accuracy: 79.703, best_norm_ED: 2387.08
+[66000/300000] Loss: 0.01283 elapsed_time: 15100.52126
+짬뽕라면                , gt: 짬뽕라면                ,   True
+산낙지연포탕              , gt: 산낙지연포탕              ,   True
+참치비빔밥               , gt: 참치비빔밥               ,   True
+공기밥                 , gt: 공기밥                 ,   True
+참쌀생주                , gt: 참쌀생주                ,   True
+[66000/300000] valid loss: 0.09598 accuracy: 79.728, norm_ED: 2397.87
+best_accuracy: 79.728, best_norm_ED: 2387.08
+[68000/300000] Loss: 0.01203 elapsed_time: 15552.27249
+돌솥불고기비빔밥            , gt: 돌솥불고기비빔밥            ,   True
+보리밥                 , gt: 보리밥                 ,   True
+동그랑땡                , gt: 동그랑땡                ,   True
+고추장양념제육             , gt: 고추장양념제육             ,   True
+낙지볶음                , gt: 낙지볶음                ,   True
+[68000/300000] valid loss: 0.09637 accuracy: 79.803, norm_ED: 2392.31
+best_accuracy: 79.803, best_norm_ED: 2387.08
+[70000/300000] Loss: 0.01089 elapsed_time: 16019.46567
+조개전골                , gt: 조개전골                ,   True
+칠리치즈                , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+모과차                 , gt: 모과차                 ,   True
+된장짜글이밥              , gt: 된장짜글이밥              ,   True
+생물                  , gt: 생물                  ,   True
+[70000/300000] valid loss: 0.10039 accuracy: 79.719, norm_ED: 2400.20
+best_accuracy: 79.803, best_norm_ED: 2387.08
+[72000/300000] Loss: 0.01087 elapsed_time: 16477.03754
+새우볶음밥               , gt: 새우볶음밥               ,   True
+소주                  , gt: 소주                  ,   True
+유산슬                 , gt: 유산슬                 ,   True
+장사장부타동              , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+송어회                 , gt: 송어회                 ,   True
+[72000/300000] valid loss: 0.10284 accuracy: 79.736, norm_ED: 2386.98
+best_accuracy: 79.803, best_norm_ED: 2386.98
+[74000/300000] Loss: 0.00927 elapsed_time: 16937.93989
+다온정코스               , gt: 다온정코스               ,   True
+오뎅나베                , gt: 오돌나베                ,   False
+돼지갈비찜               , gt: 돼지갈비찜               ,   True
+오도로                 , gt: 오도로                 ,   True
+연어아부리덮밥             , gt: 연어아부리덮밥             ,   True
+[74000/300000] valid loss: 0.10660 accuracy: 79.669, norm_ED: 2407.50
+best_accuracy: 79.803, best_norm_ED: 2386.98
+[76000/300000] Loss: 0.00834 elapsed_time: 17394.95396
+오리지널족발              , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+듀얼비프세트              , gt: 듀얼비프세트              ,   True
+아귀포                 , gt: 아귀포                 ,   True
+수제돼지갈비              , gt: 수제돼지갈비              ,   True
+오뎅반계란반김밥            , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+[76000/300000] valid loss: 0.09814 accuracy: 79.711, norm_ED: 2394.66
+best_accuracy: 79.803, best_norm_ED: 2386.98
+[78000/300000] Loss: 0.00775 elapsed_time: 17854.24882
+관자튀김                , gt: 관자튀김                ,   True
+마리                  , gt: 마리                  ,   True
+음료수                 , gt: 음료수                 ,   True
+면사리                 , gt: 면사리                 ,   True
+카스                  , gt: 카스                  ,   True
+[78000/300000] valid loss: 0.09916 accuracy: 79.928, norm_ED: 2370.61
+best_accuracy: 79.928, best_norm_ED: 2370.61
+[80000/300000] Loss: 0.00845 elapsed_time: 18315.42500
+순살한마리               , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+얼큰추어탕               , gt: 얼큰추어탕               ,   True
+매운불족발               , gt: 매운불족발               ,   True
+연어와감자해시             , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+맥주                  , gt: 맥주                  ,   True
+[80000/300000] valid loss: 0.10102 accuracy: 79.678, norm_ED: 2383.18
+best_accuracy: 79.928, best_norm_ED: 2370.61
+[82000/300000] Loss: 0.00970 elapsed_time: 18769.50419
+을지로골뱅이              , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+생우                  , gt: 생우                  ,   True
+생맥주(클라우드)           , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+트러플                 , gt: 트러플                 ,   True
+청하                  , gt: 청하                  ,   True
+[82000/300000] valid loss: 0.10301 accuracy: 79.611, norm_ED: 2394.13
+best_accuracy: 79.928, best_norm_ED: 2370.61
+[84000/300000] Loss: 0.00953 elapsed_time: 19230.73942
+골드킹윙                , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+된장찌개                , gt: 된장찌개                ,   True
+라면                  , gt: 라면                  ,   True
+분짜                  , gt: 분짜                  ,   True
+마파두부                , gt: 마파두부                ,   True
+[84000/300000] valid loss: 0.10889 accuracy: 79.711, norm_ED: 2385.54
+best_accuracy: 79.928, best_norm_ED: 2370.61
+[86000/300000] Loss: 0.00741 elapsed_time: 19694.54708
+전주매콤물갈비             , gt: 전주매콤물갈비             ,   True
+스페셜참치               , gt: 스페셜참치               ,   True
+비빔막국수               , gt: 비빔막국수               ,   True
+양곱창덮밥               , gt: 양곱창덮밥               ,   True
+양송이버섯볶음             , gt: 양송이버섯볶음             ,   True
+[86000/300000] valid loss: 0.10169 accuracy: 79.886, norm_ED: 2374.53
+best_accuracy: 79.928, best_norm_ED: 2370.61
+[88000/300000] Loss: 0.00727 elapsed_time: 20160.88743
+초코말기꽈배기             , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+버섯                  , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+순살추라이드치킨과감자튀김       , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+점심특선                , gt: 점심특선                ,   True
+하와이안아보카도피자          , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+[88000/300000] valid loss: 0.10636 accuracy: 79.845, norm_ED: 2391.17
+best_accuracy: 79.928, best_norm_ED: 2370.61
+[90000/300000] Loss: 0.00762 elapsed_time: 20613.49807
+부족회                 , gt: 부족회                 ,   True
+산                   , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+매운족발                , gt: 매운족발                ,   True
+얼굴                  , gt: 얼굴                  ,   True
+리얼치즈고로케             , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+[90000/300000] valid loss: 0.10610 accuracy: 79.494, norm_ED: 2394.26
+best_accuracy: 79.928, best_norm_ED: 2370.61
+[92000/300000] Loss: 0.00881 elapsed_time: 21079.63587
+존중하다                , gt: 존중하다                ,   True
+소주                  , gt: 소주                  ,   True
+오뎅탕                 , gt: 오뎅탕                 ,   True
+순댓국                 , gt: 순댓국                 ,   True
+벨지안포테이토             , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+[92000/300000] valid loss: 0.11363 accuracy: 79.511, norm_ED: 2402.33
+best_accuracy: 79.928, best_norm_ED: 2370.61
+[94000/300000] Loss: 0.00864 elapsed_time: 21539.06930
+메운크림돈까스             , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+우럭회                 , gt: 우럭회                 ,   True
+땅바닥                 , gt: 땅바닥                 ,   True
+나다                  , gt: 나다                  ,   True
+불향칼국수               , gt: 불향칼국수               ,   True
+[94000/300000] valid loss: 0.09922 accuracy: 79.820, norm_ED: 2375.17
+best_accuracy: 79.928, best_norm_ED: 2370.61
+[96000/300000] Loss: 0.00757 elapsed_time: 21990.99186
+들깨순두부정식             , gt: 들깨순두부정식             ,   True
+참치완자전               , gt: 참치완자전               ,   True
+돈까스주먹밥              , gt: 돈까스주먹밥              ,   True
+전복죽                 , gt: 전복죽                 ,   True
+날치알계란찜              , gt: 날치알계란찜              ,   True
+[96000/300000] valid loss: 0.10588 accuracy: 79.870, norm_ED: 2390.57
+best_accuracy: 79.928, best_norm_ED: 2370.61
+[98000/300000] Loss: 0.00734 elapsed_time: 22461.36158
+소래포구스페셜             , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+전통육회+사시미            , gt: 전통육회+사시미            ,   True
+치돈점보세트              , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+멍겹                  , gt: 멍게                  ,   False
+뚝배기불고기              , gt: 뚝배기불고기              ,   True
+[98000/300000] valid loss: 0.11182 accuracy: 79.836, norm_ED: 2385.60
+best_accuracy: 79.928, best_norm_ED: 2370.61
+[100000/300000] Loss: 0.00696 elapsed_time: 22913.35817
+유니짜장탕수육             , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+우정코스                , gt: 우정코스                ,   True
+석박지                 , gt: 석박지                 ,   True
+뿔락                  , gt: 뿔락                  ,   True
+갈비탕                 , gt: 갈비탕                 ,   True
+[100000/300000] valid loss: 0.10850 accuracy: 79.895, norm_ED: 2392.29
+best_accuracy: 79.928, best_norm_ED: 2370.61
+[102000/300000] Loss: 0.00616 elapsed_time: 23376.62150
+청하                  , gt: 청하                  ,   True
+대포                  , gt: 대포                  ,   True
+어향육슬                , gt: 어향육슬                ,   True
+소주물럭                , gt: 소주물럭                ,   True
+고등어튀김               , gt: 고등어튀김               ,   True
+[102000/300000] valid loss: 0.10697 accuracy: 79.911, norm_ED: 2382.58
+best_accuracy: 79.928, best_norm_ED: 2370.61
+[104000/300000] Loss: 0.00678 elapsed_time: 23836.29299
+돈까스덮밥               , gt: 돈까스덮밥               ,   True
+생등심불고기정식            , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+보쌈생굴세트              , gt: 보쌈생굴세트              ,   True
+공기밥                 , gt: 공기밥                 ,   True
+생선살                 , gt: 생선살                 ,   True
+[104000/300000] valid loss: 0.10331 accuracy: 79.878, norm_ED: 2373.20
+best_accuracy: 79.928, best_norm_ED: 2370.61
+[106000/300000] Loss: 0.00636 elapsed_time: 24294.19419
+고들빼기김치              , gt: 고들빼기김치              ,   True
+느타리버섯볶음             , gt: 느타리버섯볶음             ,   True
+짜글이                 , gt: 짜글이                 ,   True
+딸기,블루베리스무디          , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+참치비빔밥               , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+[106000/300000] valid loss: 0.10085 accuracy: 79.811, norm_ED: 2375.42
+best_accuracy: 79.928, best_norm_ED: 2370.61
+[108000/300000] Loss: 0.00551 elapsed_time: 24756.05546
+광동식파인애플고로육          , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+새우볶음밥               , gt: 새우볶음밥               ,   True
+김치볶음밥+라면            , gt: 김치볶음밥+라면            ,   True
+해물단지물회              , gt: 해물단지물회              ,   True
+치즈                  , gt: 치즈                  ,   True
+[108000/300000] valid loss: 0.10241 accuracy: 79.861, norm_ED: 2373.82
+best_accuracy: 79.928, best_norm_ED: 2370.61
+[110000/300000] Loss: 0.00526 elapsed_time: 25208.28087
+옛날소불고기              , gt: 옛날소불고기              ,   True
+김치볶음주먹밥             , gt: 김치볶음주먹밥             ,   True
+제육볶음                , gt: 제육볶음                ,   True
+나박김치                , gt: 나박김치                ,   True
+사이다                 , gt: 사이다                 ,   True
+[110000/300000] valid loss: 0.10551 accuracy: 79.870, norm_ED: 2389.11
+best_accuracy: 79.928, best_norm_ED: 2370.61
+[112000/300000] Loss: 0.00570 elapsed_time: 25666.72168
+메추리알                , gt: 메추리알                ,   True
+요세나베                , gt: 요세나베                ,   True
+소고기야채죽              , gt: 소고기야채죽              ,   True
+아카미즈케동              , gt: 아카미즈케동              ,   True
+대창전골(1인분)           , gt: 대창전골                ,   False
+[112000/300000] valid loss: 0.09763 accuracy: 79.845, norm_ED: 2379.62
+best_accuracy: 79.928, best_norm_ED: 2370.61
+[114000/300000] Loss: 0.00725 elapsed_time: 26120.49771
+조기                  , gt: 조기                  ,   True
+된장찌개                , gt: 된장찌개                ,   True
+모듬마른안주              , gt: 모듬마른안주              ,   True
+멍게비빔밥               , gt: 멍게비빔밥               ,   True
+천향깐양                , gt: 천향깐양                ,   True
+[114000/300000] valid loss: 0.11238 accuracy: 79.536, norm_ED: 2397.16
+best_accuracy: 79.928, best_norm_ED: 2370.61
+[116000/300000] Loss: 0.00604 elapsed_time: 26581.19807
+양념소갈비               , gt: 양념소갈비               ,   True
+참치비빔밥               , gt: 참치비빔밥               ,   True
+쫄볶이                 , gt: 쫄볶이                 ,   True
+돌나물물김치              , gt: 돌나물물김치              ,   True
+콩국수                 , gt: 콩국수                 ,   True
+[116000/300000] valid loss: 0.10850 accuracy: 79.820, norm_ED: 2347.83
+best_accuracy: 79.928, best_norm_ED: 2347.83
+[118000/300000] Loss: 0.00747 elapsed_time: 27030.10861
+바삭킹                 , gt: 바삭킹                 ,   True
+남도옛날떡볶이             , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+볶음밥                 , gt: 볶음밥                 ,   True
+미정미니밥               , gt: 미정미니밥               ,   True
+편육                  , gt: 편육                  ,   True
+[118000/300000] valid loss: 0.11156 accuracy: 79.653, norm_ED: 2369.93
+best_accuracy: 79.928, best_norm_ED: 2347.83
+[120000/300000] Loss: 0.00581 elapsed_time: 27488.59961
+오징어튀김               , gt: 오징어튀김               ,   True
+굴국밥                 , gt: 굴국밥                 ,   True
+도쿄맵닭발(무뼈)           , gt: 도쿄맵닭발(무뼈)           ,   True
+치즈                  , gt: 치즈                  ,   True
+소불고기김밥              , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+[120000/300000] valid loss: 0.10419 accuracy: 79.719, norm_ED: 2403.41
+best_accuracy: 79.928, best_norm_ED: 2347.83
+[122000/300000] Loss: 0.00496 elapsed_time: 27932.97201
+소불고기비빔밥             , gt: 소불고기비빔밥             ,   True
+해전회덮밥               , gt: 해전회덮밥               ,   True
+제로콜라                , gt: 제로콜라                ,   True
+찹쌀불도그               , gt: 찹쌀볼도그               ,   False
+공기밥                 , gt: 공기밥                 ,   True
+[122000/300000] valid loss: 0.11169 accuracy: 79.920, norm_ED: 2370.75
+best_accuracy: 79.928, best_norm_ED: 2347.83
+[124000/300000] Loss: 0.00496 elapsed_time: 28386.24643
+찹쌀                  , gt: 찹쌀                  ,   True
+항정살                 , gt: 항정살                 ,   True
+뼈추가                 , gt: 뼈추가                 ,   True
+지급하다                , gt: 지급하다                ,   True
+생선                  , gt: 생선                  ,   True
+[124000/300000] valid loss: 0.10468 accuracy: 79.903, norm_ED: 2383.50
+best_accuracy: 79.928, best_norm_ED: 2347.83
+[126000/300000] Loss: 0.00519 elapsed_time: 28838.93347
+교촌웨지감자              , gt: 교촌웨지감자              ,   True
+양념족발                , gt: 양념족발                ,   True
+고기추가                , gt: 고기추가                ,   True
+칠리찹쌀탕수육도련님          , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+치킨토스트               , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+[126000/300000] valid loss: 0.10340 accuracy: 79.987, norm_ED: 2374.34
+best_accuracy: 79.987, best_norm_ED: 2347.83
+[128000/300000] Loss: 0.00520 elapsed_time: 29282.74363
+김밥                  , gt: 김밥                  ,   True
+보리밥                 , gt: 보리밥                 ,   True
+고추닭튀김               , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+뼈해장국                , gt: 뼈해장국                ,   True
+가리비치스구이             , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+[128000/300000] valid loss: 0.10956 accuracy: 79.736, norm_ED: 2383.10
+best_accuracy: 79.987, best_norm_ED: 2347.83
+[130000/300000] Loss: 0.00549 elapsed_time: 29738.84799
+민어탕                 , gt: 민어탕                 ,   True
+진국정식                , gt: 진국정식                ,   True
+우렁                  , gt: 우렁                  ,   True
+볶음밥                 , gt: 볶                   ,   False
+광어+우럭               , gt: 광어+우럭               ,   True
+[130000/300000] valid loss: 0.10683 accuracy: 79.886, norm_ED: 2367.10
+best_accuracy: 79.987, best_norm_ED: 2347.83
+[132000/300000] Loss: 0.00470 elapsed_time: 30195.31956
+병천순대                , gt: 병천순대                ,   True
+살치살                 , gt: 살치살                 ,   True
+돈까스주먹밥              , gt: 돈까스주먹밥              ,   True
+갈비만두                , gt: 갈비만두                ,   True
+비바람                 , gt: 비바람                 ,   True
+[132000/300000] valid loss: 0.10730 accuracy: 80.020, norm_ED: 2366.64
+best_accuracy: 80.020, best_norm_ED: 2347.83
+[134000/300000] Loss: 0.00429 elapsed_time: 30643.64797
+병맥주                 , gt: 병맥주                 ,   True
+염통                  , gt: 염통                  ,   True
+리코타망고               , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+맛있는명품치킨한마리          , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+소꼬치                 , gt: 소꼬치                 ,   True
+[134000/300000] valid loss: 0.11179 accuracy: 79.886, norm_ED: 2399.52
+best_accuracy: 80.020, best_norm_ED: 2347.83
+[136000/300000] Loss: 0.00442 elapsed_time: 31092.83585
+모듬사시미               , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+지다                  , gt: 지다                  ,   True
+샐러드김밥               , gt: 샐러드김밥               ,   True
+군만두                 , gt: 군만두                 ,   True
+사시미모리아와세            , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+[136000/300000] valid loss: 0.10864 accuracy: 80.053, norm_ED: 2379.74
+best_accuracy: 80.053, best_norm_ED: 2347.83
+[138000/300000] Loss: 0.00417 elapsed_time: 31545.68037
+누릉지                 , gt: 누릉지                 ,   True
+치즈                  , gt: 치즈                  ,   True
+치킨빈달루               , gt: 치킨반달루               ,   False
+프런치키스               , gt: 프렌치키스               ,   False
+백짬뽕                 , gt: 백짬뽕                 ,   True
+[138000/300000] valid loss: 0.10561 accuracy: 80.028, norm_ED: 2389.98
+best_accuracy: 80.053, best_norm_ED: 2347.83
+[140000/300000] Loss: 0.00444 elapsed_time: 31998.39782
+들깨칼제비               , gt: 들깨칼제비               ,   True
+우럭                  , gt: 우럭                  ,   True
+먹태                  , gt: 먹태                  ,   True
+스프라이트               , gt: 스프라이트               ,   True
+직화우뼈닭발              , gt: 직화무뼈닭발              ,   False
+[140000/300000] valid loss: 0.10931 accuracy: 80.020, norm_ED: 2373.22
+best_accuracy: 80.053, best_norm_ED: 2347.83
+[142000/300000] Loss: 0.00458 elapsed_time: 32450.16256
+돈까스냉모밀              , gt: 돈까스냉모밀              ,   True
+버섯크림리소또             , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+유니짜장탕수육             , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+토끼정크림카레우동           , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+보리밥정식               , gt: 보리밥정식               ,   True
+[142000/300000] valid loss: 0.10630 accuracy: 79.962, norm_ED: 2376.34
+best_accuracy: 80.053, best_norm_ED: 2347.83
+[144000/300000] Loss: 0.00504 elapsed_time: 32903.78433
+양념(순한맛,매운맛)         , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+양갈비살                , gt: 양갈비살                ,   True
+파닭                  , gt: 파닭                  ,   True
+초계국수                , gt: 초계국수                ,   True
+전복                  , gt: 전복                  ,   True
+[144000/300000] valid loss: 0.10332 accuracy: 79.945, norm_ED: 2351.36
+best_accuracy: 80.053, best_norm_ED: 2347.83
+[146000/300000] Loss: 0.00478 elapsed_time: 33346.70912
+함흥비빔냉면              , gt: 함흥비빔냉면              ,   True
+모듬전                 , gt: 모듬전                 ,   True
+참치김밥                , gt: 참치김밥                ,   True
+해산물물회               , gt: 해산물물회               ,   True
+고고제육덮밥              , gt: 고고제육덮밥              ,   True
+[146000/300000] valid loss: 0.10515 accuracy: 79.937, norm_ED: 2380.64
+best_accuracy: 80.053, best_norm_ED: 2347.83
+[148000/300000] Loss: 0.00523 elapsed_time: 33799.53194
+하하우동                , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+고니                  , gt: 고니                  ,   True
+소갈비살                , gt: 소갈비살                ,   True
+지내다                 , gt: 지내다                 ,   True
+설렁탕                 , gt: 설렁탕                 ,   True
+[148000/300000] valid loss: 0.11651 accuracy: 79.761, norm_ED: 2372.10
+best_accuracy: 80.053, best_norm_ED: 2347.83
+[150000/300000] Loss: 0.00550 elapsed_time: 34249.69086
+고추짬뽕                , gt: 고추짬뽕                ,   True
+소주                  , gt: 소주                  ,   True
+우럭                  , gt: 우럭                  ,   True
+꽃게장                 , gt: 꽃게장                 ,   True
+절대적                 , gt: 절대적                 ,   True
+[150000/300000] valid loss: 0.10701 accuracy: 80.020, norm_ED: 2368.88
+best_accuracy: 80.053, best_norm_ED: 2347.83
+[152000/300000] Loss: 0.00537 elapsed_time: 34694.28940
+버섯샤부샤부              , gt: 버섯샤부샤부              ,   True
+관자&당근쭈레뇨끼           , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+김치볶음밥+라면            , gt: 김치볶음밥+라면            ,   True
+면사리                 , gt: 면사리                 ,   True
+카레&등심돈가츠정식          , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+[152000/300000] valid loss: 0.11309 accuracy: 80.012, norm_ED: 2376.97
+best_accuracy: 80.053, best_norm_ED: 2347.83
+[154000/300000] Loss: 0.00491 elapsed_time: 35143.11871
+매운깐풍닭               , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+우거지해장국              , gt: 우거지해장국              ,   True
+산사춘                 , gt: 산사춘                 ,   True
+음료수                 , gt: 음료수                 ,   True
+3인버라이어티세트           , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+[154000/300000] valid loss: 0.11219 accuracy: 79.945, norm_ED: 2378.05
+best_accuracy: 80.053, best_norm_ED: 2347.83
+[156000/300000] Loss: 0.00416 elapsed_time: 35588.71142
+아보카도구이              , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+당면                  , gt: 당면                  ,   True
+울면                  , gt: 울면                  ,   True
+시골된장찌개솥밥정식          , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+치즈오븐치킨스파게티          , gt: 치즈오븐치킨스파게티          ,   True
+[156000/300000] valid loss: 0.11277 accuracy: 79.970, norm_ED: 2380.67
+best_accuracy: 80.053, best_norm_ED: 2347.83
+[158000/300000] Loss: 0.00440 elapsed_time: 36045.59708
+존경하다                , gt: 존경하다                ,   True
+음료                  , gt: 음료                  ,   True
+소주                  , gt: 소주                  ,   True
+굴소스                 , gt: 굴소스                 ,   True
+소주                  , gt: 소주                  ,   True
+[158000/300000] valid loss: 0.10664 accuracy: 79.928, norm_ED: 2374.34
+best_accuracy: 80.053, best_norm_ED: 2347.83
+[160000/300000] Loss: 0.00407 elapsed_time: 36510.88047
+백세주                 , gt: 백세주                 ,   True
+오해                  , gt: 오해                  ,   True
+돼지삼겹살               , gt: 돼지삼겹살               ,   True
+모짜렐라치즈              , gt: 모짜렐라치즈              ,   True
+솥뚜껑삼겹살              , gt: 솥뚜껑삼겹살              ,   True
+[160000/300000] valid loss: 0.11097 accuracy: 80.087, norm_ED: 2365.89
+best_accuracy: 80.087, best_norm_ED: 2347.83
+[162000/300000] Loss: 0.00456 elapsed_time: 36968.28988
+어묵우동                , gt: 어묵우동                ,   True
+군만두                 , gt: 군만두                 ,   True
+잠자다                 , gt: 잠자다                 ,   True
+직화더덕제육볶음            , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+초새우초밥               , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+[162000/300000] valid loss: 0.11012 accuracy: 80.037, norm_ED: 2377.32
+best_accuracy: 80.087, best_norm_ED: 2347.83
+[164000/300000] Loss: 0.00443 elapsed_time: 37426.36206
+파래전                 , gt: 파래전                 ,   True
+유니짜장탕수육             , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+해물누룽지탕              , gt: 해물누룽지탕              ,   True
+해파리                 , gt: 해파리                 ,   True
+스프라이트제로             , gt: 스프라이트제로             ,   True
+[164000/300000] valid loss: 0.11458 accuracy: 79.845, norm_ED: 2371.06
+best_accuracy: 80.087, best_norm_ED: 2347.83
+[166000/300000] Loss: 0.00418 elapsed_time: 37891.85855
+단호박리조또              , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+음료수                 , gt: 음료수                 ,   True
+돈순대국                , gt: 돈순대국                ,   True
+한라산                 , gt: 한라산                 ,   True
+각종버섯                , gt: 각종버섯                ,   True
+[166000/300000] valid loss: 0.10205 accuracy: 80.020, norm_ED: 2366.81
+best_accuracy: 80.087, best_norm_ED: 2347.83
+[168000/300000] Loss: 0.00468 elapsed_time: 38345.72653
+추어탕                 , gt: 추어탕                 ,   True
+가오리살                , gt: 가오리살                ,   True
+술국                  , gt: 술국                  ,   True
+불고기비빔밥              , gt: 불고기비빔밥              ,   True
+한우채끝                , gt: 한우채끝                ,   True
+[168000/300000] valid loss: 0.11191 accuracy: 80.045, norm_ED: 2375.81
+best_accuracy: 80.087, best_norm_ED: 2347.83
+[170000/300000] Loss: 0.00412 elapsed_time: 38796.30286
+비빔국                 , gt: 비빔국수                ,   False
+니꾸우동                , gt: 니꾸우동                ,   True
+섭국                  , gt: 섭국                  ,   True
+차돌된장                , gt: 차돌된장                ,   True
+잠기다                 , gt: 잠기다                 ,   True
+[170000/300000] valid loss: 0.11239 accuracy: 79.987, norm_ED: 2386.63
+best_accuracy: 80.087, best_norm_ED: 2347.83
+[172000/300000] Loss: 0.00457 elapsed_time: 39252.55795
+뼈해장국                , gt: 뼈해장국                ,   True
+사골국                 , gt: 사골국                 ,   True
+놀부부대찌개제육세트          , gt: 놀부부대찌개제육세트          ,   True
+해물파전                , gt: 해물파전                ,   True
+쉬림프골드               , gt: 쉬림프골드               ,   True
+[172000/300000] valid loss: 0.11132 accuracy: 79.962, norm_ED: 2370.22
+best_accuracy: 80.087, best_norm_ED: 2347.83
+[174000/300000] Loss: 0.00437 elapsed_time: 39702.26635
+왕새우튀김               , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+감자고로케               , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+오뎅탕                 , gt: 오뎅탕                 ,   True
+겨자소스                , gt: 겨자소스                ,   True
+흰솥밥된장찌개             , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+[174000/300000] valid loss: 0.11284 accuracy: 79.895, norm_ED: 2361.32
+best_accuracy: 80.087, best_norm_ED: 2347.83
+[176000/300000] Loss: 0.00441 elapsed_time: 40162.05682
+테라                  , gt: 테라                  ,   True
+제육쌈밥                , gt: 제육쌈밥                ,   True
+계란말이                , gt: 계란말이                ,   True
+김치김밥                , gt: 김치김밥                ,   True
+막걸리                 , gt: 막걸리                 ,   True
+[176000/300000] valid loss: 0.10837 accuracy: 80.112, norm_ED: 2379.30
+best_accuracy: 80.112, best_norm_ED: 2347.83
+[178000/300000] Loss: 0.00374 elapsed_time: 40615.27488
+튀김만두                , gt: 튀김만두                ,   True
+생맥주                 , gt: 생맥주                 ,   True
+멍게                  , gt: 멍게                  ,   True
+잡탕밥                 , gt: 잡탕밥                 ,   True
+비빔밥                 , gt: 비빔밥                 ,   True
+[178000/300000] valid loss: 0.11117 accuracy: 80.020, norm_ED: 2371.88
+best_accuracy: 80.112, best_norm_ED: 2347.83
+[180000/300000] Loss: 0.00411 elapsed_time: 41068.81751
+안심스테이크              , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+양대창덮밥               , gt: 양대창덮밥               ,   True
+든든한끼본오징어초무침         , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+낙지볶음정식              , gt: 낙지볶음정식              ,   True
+알새우칩                , gt: 알새우칩                ,   True
+[180000/300000] valid loss: 0.11215 accuracy: 80.129, norm_ED: 2367.29
+best_accuracy: 80.129, best_norm_ED: 2347.83
+[182000/300000] Loss: 0.00408 elapsed_time: 41521.49880
+까르보나라               , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+화장실                 , gt: 화장실                 ,   True
+음료수                 , gt: 음료수                 ,   True
+모듬튀김                , gt: 모듬튀김                ,   True
+프리미엄버거              , gt: 프리미엄버거              ,   True
+[182000/300000] valid loss: 0.10451 accuracy: 80.012, norm_ED: 2374.15
+best_accuracy: 80.129, best_norm_ED: 2347.83
+[184000/300000] Loss: 0.00359 elapsed_time: 41973.55342
+솥밥정식                , gt: 솥밥정식                ,   True
+쿨피스                 , gt: 쿨피스                 ,   True
+육회                  , gt: 육회                  ,   True
+소주                  , gt: 소주                  ,   True
+버섯크림떡볶이세트           , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+[184000/300000] valid loss: 0.10767 accuracy: 80.028, norm_ED: 2360.72
+best_accuracy: 80.129, best_norm_ED: 2347.83
+[186000/300000] Loss: 0.00385 elapsed_time: 42437.43900
+로제치즈돈가스             , gt: 로제치크돈가스             ,   False
+토닉워터                , gt: 토닉워터                ,   True
+오분작돌솥밥              , gt: 오분작돌솥밥              ,   True
+돼지막창구이              , gt: 돼지막창구이              ,   True
+대문                  , gt: 대문                  ,   True
+[186000/300000] valid loss: 0.11376 accuracy: 79.953, norm_ED: 2379.04
+best_accuracy: 80.129, best_norm_ED: 2347.83
+[188000/300000] Loss: 0.00345 elapsed_time: 42882.74949
+추어탕                 , gt: 추어탕                 ,   True
+책방                  , gt: 책방                  ,   True
+화이트와인               , gt: 화이트와인               ,   True
+떡갈비피자               , gt: 떡갈비피자               ,   True
+맥주                  , gt: 맥주                  ,   True
+[188000/300000] valid loss: 0.10452 accuracy: 80.162, norm_ED: 2366.10
+best_accuracy: 80.162, best_norm_ED: 2347.83
+[190000/300000] Loss: 0.00361 elapsed_time: 43344.48629
+홍어추가                , gt: 홍어추가                ,   True
+건강알밥                , gt: 건강알밥                ,   True
+탕탕이                 , gt: 탕탕이                 ,   True
+후춧가루                , gt: 후춧가루                ,   True
+바람                  , gt: 바람                  ,   True
+[190000/300000] valid loss: 0.11232 accuracy: 79.895, norm_ED: 2373.63
+best_accuracy: 80.162, best_norm_ED: 2347.83
+[192000/300000] Loss: 0.00452 elapsed_time: 43801.91401
+발목                  , gt: 발목                  ,   True
+공기별도                , gt: 공기별도                ,   True
+무공쫄면                , gt: 무공쫄면                ,   True
+얼큰칼국수               , gt: 얼큰칼국수               ,   True
+화덕족발                , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+[192000/300000] valid loss: 0.10674 accuracy: 80.037, norm_ED: 2367.58
+best_accuracy: 80.162, best_norm_ED: 2347.83
+[194000/300000] Loss: 0.00453 elapsed_time: 44257.06350
+해물덮밥                , gt: 해물덮밥                ,   True
+고구마순나물              , gt: 고구마순나물              ,   True
+떡사리                 , gt: 떡사리                 ,   True
+꽃빵                  , gt: 꽃빵                  ,   True
+반+반                 , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+[194000/300000] valid loss: 0.11120 accuracy: 80.012, norm_ED: 2373.99
+best_accuracy: 80.162, best_norm_ED: 2347.83
+[196000/300000] Loss: 0.00392 elapsed_time: 44719.18589
+언제                  , gt: 언제                  ,   True
+우동                  , gt: 우동                  ,   True
+전복                  , gt: 전복                  ,   True
+휴지통                 , gt: 휴지통                 ,   True
+위험                  , gt: 위험                  ,   True
+[196000/300000] valid loss: 0.11965 accuracy: 79.886, norm_ED: 2377.77
+best_accuracy: 80.162, best_norm_ED: 2347.83
+[198000/300000] Loss: 0.00379 elapsed_time: 45164.31378
+치즈                  , gt: 치즈                  ,   True
+제주돈차돌               , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+꾸리다                 , gt: 꾸리다                 ,   True
+해파리냉채               , gt: 해파리냉채               ,   True
+육회비빔밥               , gt: 육회비빔밥               ,   True
+[198000/300000] valid loss: 0.11240 accuracy: 79.978, norm_ED: 2379.53
+best_accuracy: 80.162, best_norm_ED: 2347.83
+[200000/300000] Loss: 0.00386 elapsed_time: 45625.30477
+조기매운탕               , gt: 조기매운탕               ,   True
+5타p마+++)小+셀치드+환탄뽕1  , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+역전하이볼               , gt: 역전하이볼               ,   True
+보도하다                , gt: 보도하다                ,   True
+차림                  , gt: 차림                  ,   True
+[200000/300000] valid loss: 0.11286 accuracy: 80.003, norm_ED: 2379.53
+best_accuracy: 80.162, best_norm_ED: 2347.83
+[202000/300000] Loss: 0.00357 elapsed_time: 46079.79479
+모과차                 , gt: 모과차                 ,   True
+뻔데기탕                , gt: 뻔데기탕                ,   True
+파래전                 , gt: 파래전                 ,   True
+알,고니,애              , gt: 알,고니,애              ,   True
+두릅무침                , gt: 두릅무침                ,   True
+[202000/300000] valid loss: 0.11001 accuracy: 79.987, norm_ED: 2370.58
+best_accuracy: 80.162, best_norm_ED: 2347.83
+[204000/300000] Loss: 0.00337 elapsed_time: 46538.89195
+김치찌개                , gt: 김치찌개                ,   True
+소라                  , gt: 소라                  ,   True
+슈프림양념치킨             , gt: 슈프림양념치킨             ,   True
+공기밥                 , gt: 공기밥                 ,   True
+재채기                 , gt: 재채기                 ,   True
+[204000/300000] valid loss: 0.10375 accuracy: 80.154, norm_ED: 2369.15
+best_accuracy: 80.162, best_norm_ED: 2347.83
+[206000/300000] Loss: 0.00539 elapsed_time: 47003.62976
+불고기정식               , gt: 불고기정식               ,   True
+전복죽                 , gt: 전복죽                 ,   True
+그릴닭가슴살샐러드           , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+핵매운어묵김밥             , gt: 핵매운어묵김밥             ,   True
+누릉지                 , gt: 누릉지                 ,   True
+[206000/300000] valid loss: 0.10742 accuracy: 79.820, norm_ED: 2377.14
+best_accuracy: 80.162, best_norm_ED: 2347.83
+[208000/300000] Loss: 0.00540 elapsed_time: 47454.33279
+무나물                 , gt: 무나물                 ,   True
+소[특1양               , gt: 소(특)양               ,   False
+버섯베이컨피자             , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+맥주                  , gt: 맥주                  ,   True
+유부                  , gt: 유부                  ,   True
+[208000/300000] valid loss: 0.11730 accuracy: 80.020, norm_ED: 2365.14
+best_accuracy: 80.162, best_norm_ED: 2347.83
+[210000/300000] Loss: 0.00506 elapsed_time: 47915.36685
+불냉면                 , gt: 불냉면                 ,   True
+명이나물                , gt: 명이나물                ,   True
+황도                  , gt: 황도                  ,   True
+가오리회무침              , gt: 가오리회무침              ,   True
+소고기김밥               , gt: 소고기김밥               ,   True
+[210000/300000] valid loss: 0.11002 accuracy: 79.803, norm_ED: 2382.72
+best_accuracy: 80.162, best_norm_ED: 2347.83
+[212000/300000] Loss: 0.00692 elapsed_time: 48368.84284
+돼지혀볶음               , gt: 돼지혀볶음               ,   True
+남다른부대찌개             , gt: 남다른부대찌개             ,   True
+돌솥특대한우곰탕            , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+대게찜                 , gt: 대게찜                 ,   True
+칼국수                 , gt: 칼국수                 ,   True
+[212000/300000] valid loss: 0.11489 accuracy: 79.653, norm_ED: 2404.12
+best_accuracy: 80.162, best_norm_ED: 2347.83
+[214000/300000] Loss: 0.00627 elapsed_time: 48828.86378
+모히또                 , gt: 모히또                 ,   True
+베이컨김치볶음밥            , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+밀가루                 , gt: 밀가루                 ,   True
+치즈김밥                , gt: 치즈김밥                ,   True
+안거미                 , gt: 안거미                 ,   True
+[214000/300000] valid loss: 0.13490 accuracy: 79.486, norm_ED: 2399.40
+best_accuracy: 80.162, best_norm_ED: 2347.83
+[216000/300000] Loss: 0.00600 elapsed_time: 49283.41726
+소고기된장찌개             , gt: 소고기된장찌개             ,   True
+꿔바러우                , gt: 꿔바러우                ,   True
+소주                  , gt: 소주                  ,   True
+월                   , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+비빔냉면                , gt: 비빔냉면                ,   True
+[216000/300000] valid loss: 0.11382 accuracy: 79.886, norm_ED: 2403.83
+best_accuracy: 80.162, best_norm_ED: 2347.83
+[218000/300000] Loss: 0.00505 elapsed_time: 49742.25728
+포크스테이크              , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+맥주                  , gt: 맥                   ,   False
+버터                  , gt: 버터                  ,   True
+닭볶음탕                , gt: 닭볶음탕                ,   True
+처음처럼                , gt: 처음처럼                ,   True
+[218000/300000] valid loss: 0.11178 accuracy: 80.020, norm_ED: 2375.51
+best_accuracy: 80.162, best_norm_ED: 2347.83
+[220000/300000] Loss: 0.00689 elapsed_time: 50201.82311
+비빔칼국수               , gt: 비빔칼국수               ,   True
+연어회덮밥               , gt: 연어회덮밥               ,   True
+지시                  , gt: 지시                  ,   True
+뚝배기불고기              , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+농어                  , gt: 농어                  ,   True
+[220000/300000] valid loss: 0.11350 accuracy: 79.578, norm_ED: 2405.03
+best_accuracy: 80.162, best_norm_ED: 2347.83
+[222000/300000] Loss: 0.00767 elapsed_time: 50647.78402
+공기밥                 , gt: 공기밥                 ,   True
+차돌니꾸우동정식            , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+&닭5종                , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+영양솥밥                , gt: 영양손밥                ,   False
+답                   , gt: 탑                   ,   False
+[222000/300000] valid loss: 0.12422 accuracy: 79.552, norm_ED: 2404.33
+best_accuracy: 80.162, best_norm_ED: 2347.83
+[224000/300000] Loss: 0.00582 elapsed_time: 51113.45519
+비빔냉면                , gt: 비빔냉면                ,   True
+생선                  , gt: 생선                  ,   True
+장작구이통닭              , gt: 장작구이통닭              ,   True
+손수제비                , gt: 손수제비                ,   True
+완성하다                , gt: 완성하다                ,   True
+[224000/300000] valid loss: 0.11246 accuracy: 80.028, norm_ED: 2364.66
+best_accuracy: 80.162, best_norm_ED: 2347.83
+[226000/300000] Loss: 0.00723 elapsed_time: 51565.80143
+아구찜                 , gt: 아구찜                 ,   True
+셀프주먹밥               , gt: 셀프주먹밥               ,   True
+닭날개                 , gt: 닭날개                 ,   True
+뚝배기불고기              , gt: 뚝배기불고기              ,   True
+다행히                 , gt: 다행히                 ,   True
+[226000/300000] valid loss: 0.11802 accuracy: 79.619, norm_ED: 2380.25
+best_accuracy: 80.162, best_norm_ED: 2347.83
+[228000/300000] Loss: 0.01218 elapsed_time: 52026.10189
+양념맵소킹콤보             , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+돼지모듬한판              , gt: 돼지모듬한판              ,   True
+세트a                 , gt: 세트a                 ,   True
+안창&치킨스테이크           , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+팬네아라비아따             , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+[228000/300000] valid loss: 0.11825 accuracy: 79.578, norm_ED: 2386.95
+best_accuracy: 80.162, best_norm_ED: 2347.83
+[230000/300000] Loss: 0.00885 elapsed_time: 52480.79483
+맥주                  , gt: 맥주                  ,   True
+고민하다                , gt: 고민하다                ,   True
+찐전복                 , gt: 찐전복                 ,   True
+김치전                 , gt: 김치전                 ,   True
+용어                  , gt: 용어                  ,   True
+[230000/300000] valid loss: 0.10503 accuracy: 79.770, norm_ED: 2375.63
+best_accuracy: 80.162, best_norm_ED: 2347.83
+[232000/300000] Loss: 0.00951 elapsed_time: 52933.35442
+소주                  , gt: 소주                  ,   True
+패밀리다미               , gt: 패밀리中                ,   False
+포메인쌈                , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+소주                  , gt: 소주                  ,   True
+아빠힘내세요              , gt: 아빠힘내세요              ,   True
+[232000/300000] valid loss: 0.11701 accuracy: 79.736, norm_ED: 2392.05
+best_accuracy: 80.162, best_norm_ED: 2347.83
+[234000/300000] Loss: 0.00568 elapsed_time: 53379.34152
+보회된장사시미             , gt: 보리된장사시미             ,   False
+숙성특수안창              , gt: 숙성특수안창              ,   True
+껍데기                 , gt: 껍데기                 ,   True
+해물된장찌개.공기밥          , gt: 해물된장찌개.공기밥          ,   True
+매운날개꼬치              , gt: 매운날개꼬치              ,   True
+[234000/300000] valid loss: 0.11107 accuracy: 79.803, norm_ED: 2375.09
+best_accuracy: 80.162, best_norm_ED: 2347.83
+[236000/300000] Loss: 0.00510 elapsed_time: 53833.34083
+갑오징어무침              , gt: 갑오징어무침              ,   True
+총각김치                , gt: 총각김치                ,   True
+로뽕                  , gt: 로뽕                  ,   True
+vh큐브치즈              , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+굴무침                 , gt: 굴무침                 ,   True
+[236000/300000] valid loss: 0.10680 accuracy: 79.911, norm_ED: 2377.61
+best_accuracy: 80.162, best_norm_ED: 2347.83
+[238000/300000] Loss: 0.00442 elapsed_time: 54286.17660
+꽃빵튀김                , gt: 꽃빵튀김                ,   True
+토마토치즈파스타            , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+김치찌개                , gt: 김치찌개                ,   True
+설명되다                , gt: 설명되다                ,   True
+양지육개장               , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+[238000/300000] valid loss: 0.11380 accuracy: 80.062, norm_ED: 2375.06
+best_accuracy: 80.162, best_norm_ED: 2347.83
+[240000/300000] Loss: 0.00486 elapsed_time: 54741.20192
+물냉면                 , gt: 물냉면                 ,   True
+소떡소떡                , gt: 소떡소떡                ,   True
+리소토                 , gt: 리소토                 ,   True
+캡팥꽈배기               , gt: 캡팥꽈배기               ,   True
+들깨칼제비               , gt: 들깨칼제비               ,   True
+[240000/300000] valid loss: 0.11508 accuracy: 79.920, norm_ED: 2367.86
+best_accuracy: 80.162, best_norm_ED: 2347.83
+[242000/300000] Loss: 0.00452 elapsed_time: 55196.50372
+옛날이야기               , gt: 옛날이야기               ,   True
+오징어다리튀김             , gt: 오징어다리튀김             ,   True
+저것                  , gt: 저것                  ,   True
+숙회                  , gt: 숙회                  ,   True
+도끼갈비                , gt: 도끼갈비                ,   True
+[242000/300000] valid loss: 0.11131 accuracy: 79.962, norm_ED: 2388.39
+best_accuracy: 80.162, best_norm_ED: 2347.83
+[244000/300000] Loss: 0.00375 elapsed_time: 55650.46346
+고추냉이                , gt: 고추냉이                ,   True
+해물약고추장비빔밥           , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+엄청큰후라이드치킨           , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+완두콩밥                , gt: 완두콩밥                ,   True
+근고기한판               , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+[244000/300000] valid loss: 0.10982 accuracy: 79.903, norm_ED: 2369.05
+best_accuracy: 80.162, best_norm_ED: 2347.83
+[246000/300000] Loss: 0.00346 elapsed_time: 56113.30572
+진곰탕                 , gt: 진곰탕                 ,   True
+해물덮밥                , gt: 해물덮밥                ,   True
+해장라면                , gt: 해장라면                ,   True
+구월점스페셜세트1           , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+bb이리얼시카고피자          , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+[246000/300000] valid loss: 0.11490 accuracy: 79.836, norm_ED: 2386.19
+best_accuracy: 80.162, best_norm_ED: 2347.83
+[248000/300000] Loss: 0.00336 elapsed_time: 56571.08305
+냉짬뽕                 , gt: 냉짬뽕                 ,   True
+제주맑은필라프             , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+뛰어오다                , gt: 뛰어오다                ,   True
+제주수육정식              , gt: 제주수육정식              ,   True
+특왕갈비탕               , gt: 특왕갈비탕               ,   True
+[248000/300000] valid loss: 0.10984 accuracy: 79.945, norm_ED: 2373.30
+best_accuracy: 80.162, best_norm_ED: 2347.83
+[250000/300000] Loss: 0.00338 elapsed_time: 57017.97813
+설렁탕                 , gt: 설렁탕                 ,   True
+빨콩떡볶이               , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+꿀껍치킨                , gt: 꿀잼치킨                ,   False
+연태고량주               , gt: 연태고랑주               ,   False
+공기밥                 , gt: 공기밥                 ,   True
+[250000/300000] valid loss: 0.11898 accuracy: 79.978, norm_ED: 2386.91
+best_accuracy: 80.162, best_norm_ED: 2347.83
+[252000/300000] Loss: 0.00325 elapsed_time: 57486.47717
+공기밥                 , gt: 공기밥                 ,   True
+저녁회정식               , gt: 저                   ,   False
+반건조노가리              , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+백돈식혜                , gt: 빽돈식혜                ,   False
+볶음밥                 , gt: 볶음밥                 ,   True
+[252000/300000] valid loss: 0.10934 accuracy: 79.920, norm_ED: 2381.43
+best_accuracy: 80.162, best_norm_ED: 2347.83
+[254000/300000] Loss: 0.00313 elapsed_time: 57941.51747
+장사장부타동              , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+백숙                  , gt: 백숙                  ,   True
+순두부                 , gt: 순두부                 ,   True
+맥주                  , gt: 맥주                  ,   True
+구속하다                , gt: 구속하다                ,   True
+[254000/300000] valid loss: 0.10767 accuracy: 80.078, norm_ED: 2369.66
+best_accuracy: 80.162, best_norm_ED: 2347.83
+[256000/300000] Loss: 0.00299 elapsed_time: 58401.77877
+각종채소                , gt: 각종채소                ,   True
+제주정식                , gt: 제주정식                ,   True
+땡초김밥                , gt: 땡초김밥                ,   True
+통목살두루치기             , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+매쉬포테이토              , gt: 매쉬포테이토              ,   True
+[256000/300000] valid loss: 0.11176 accuracy: 80.028, norm_ED: 2360.67
+best_accuracy: 80.162, best_norm_ED: 2347.83
+[258000/300000] Loss: 0.00308 elapsed_time: 58864.62359
+소주                  , gt: 소주                  ,   True
+크리스피텐더치킨            , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+시래기소불고기김밥           , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+얼큰도가니탕              , gt: 얼큰도가니탕              ,   True
+잔치국수                , gt: 잔치국수                ,   True
+[258000/300000] valid loss: 0.10490 accuracy: 80.095, norm_ED: 2362.99
+best_accuracy: 80.162, best_norm_ED: 2347.83
+[260000/300000] Loss: 0.00303 elapsed_time: 59315.17579
+보쌈                  , gt: 보쌈                  ,   True
+해산물토마토리조또           , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+돌솥치즈알밥              , gt: 돌솥치즈알밥              ,   True
+내장탕                 , gt: 내장탕                 ,   True
+돼지고기왕장김치전골          , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+[260000/300000] valid loss: 0.11190 accuracy: 79.953, norm_ED: 2382.47
+best_accuracy: 80.162, best_norm_ED: 2347.83
+[262000/300000] Loss: 0.00307 elapsed_time: 59775.43550
+김치콩나물우동             , gt: 김치콩나물우동             ,   True
+갈치구이정식              , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+목살                  , gt: 목살                  ,   True
+돌솥비빔밥               , gt: 돌솥비빔밥               ,   True
+스팸후라이               , gt: 스팸후라이               ,   True
+[262000/300000] valid loss: 0.11014 accuracy: 80.179, norm_ED: 2371.49
+best_accuracy: 80.179, best_norm_ED: 2347.83
+[264000/300000] Loss: 0.00293 elapsed_time: 60232.03933
+돼지고기                , gt: 돼지고기                ,   True
+쇠고기야채죽              , gt: 쇠고기야채죽              ,   True
+보쌈                  , gt: 보쌈                  ,   True
+제                   , gt: 체다치돈김밥              ,   False
+큐브치즈카츠2             , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+[264000/300000] valid loss: 0.10703 accuracy: 80.087, norm_ED: 2378.30
+best_accuracy: 80.179, best_norm_ED: 2347.83
+[266000/300000] Loss: 0.00288 elapsed_time: 60691.03509
+광어&참치               , gt: 광어&참치               ,   True
+의외로                 , gt: 의외로                 ,   True
+고노아다사시미             , gt: 고노와다사시미             ,   False
+차돌된장찌개              , gt: 차돌된장찌개              ,   True
+돌판불고기               , gt: 돌판불고기               ,   True
+[266000/300000] valid loss: 0.11016 accuracy: 80.070, norm_ED: 2363.27
+best_accuracy: 80.179, best_norm_ED: 2347.83
+[268000/300000] Loss: 0.00291 elapsed_time: 61140.84372
+옛날돈가스+쫄면            , gt: 옛날돈가스+쫄면            ,   True
+비프빈달루               , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+갈비찜                 , gt: 갈비찜                 ,   True
+유황훈제구이              , gt: 유황훈제구이              ,   True
+돼지고기산적꼬치구이          , gt: 돼지고기산적꼬치구이          ,   True
+[268000/300000] valid loss: 0.11349 accuracy: 80.104, norm_ED: 2363.70
+best_accuracy: 80.179, best_norm_ED: 2347.83
+[270000/300000] Loss: 0.00287 elapsed_time: 61595.52997
+마늘장아찌               , gt: 마늘장아찌               ,   True
+공기밥                 , gt: 공기밥                 ,   True
+영양탕                 , gt: 영양탕                 ,   True
+맛보기족발               , gt: 맛보기족발               ,   True
+우삼겹                 , gt: 우삼겹                 ,   True
+[270000/300000] valid loss: 0.11068 accuracy: 80.012, norm_ED: 2369.81
+best_accuracy: 80.179, best_norm_ED: 2347.83
+[272000/300000] Loss: 0.00300 elapsed_time: 62052.39016
+샐러드김밥               , gt: 샐러드김밥               ,   True
+꿔보러우                , gt: 꿔보러우                ,   True
+혼마구로시ip             , gt: 혼마구로vip             ,   False
+맥주                  , gt: 맥주                  ,   True
+새우물만두               , gt: 새우물만두               ,   True
+[272000/300000] valid loss: 0.11418 accuracy: 79.978, norm_ED: 2387.05
+best_accuracy: 80.179, best_norm_ED: 2347.83
+[274000/300000] Loss: 0.00323 elapsed_time: 62500.29545
+타이거맥주               , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+돈코츠정식               , gt: 돈코츠정식               ,   True
+통문어숙회               , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+무김치                 , gt: 무김치                 ,   True
+미소라멘                , gt: 미소라멘                ,   True
+[274000/300000] valid loss: 0.10797 accuracy: 80.070, norm_ED: 2370.10
+best_accuracy: 80.179, best_norm_ED: 2347.83
+[276000/300000] Loss: 0.00318 elapsed_time: 62963.44060
+비빔밥                 , gt: 비빔밥                 ,   True
+알새우칩                , gt: 알새우칩                ,   True
+전복회비빔밥              , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+과일샐러드               , gt: 과일샐러드               ,   True
+생선볼                 , gt: 생선볼                 ,   True
+[276000/300000] valid loss: 0.10788 accuracy: 80.012, norm_ED: 2382.71
+best_accuracy: 80.179, best_norm_ED: 2347.83
+[278000/300000] Loss: 0.00287 elapsed_time: 63415.80989
+사리                  , gt: 사리                  ,   True
+석화                  , gt: 석화                  ,   True
+연어                  , gt: 연어                  ,   True
+간장게장                , gt: 간장게장                ,   True
+깍두기볶음               , gt: 깍두기볶음               ,   True
+[278000/300000] valid loss: 0.10904 accuracy: 80.053, norm_ED: 2374.40
+best_accuracy: 80.179, best_norm_ED: 2347.83
+[280000/300000] Loss: 0.00313 elapsed_time: 63875.23832
+싸이플렉스버거             , gt: 싸이플렉스버거             ,   True
+소주                  , gt: 소주                  ,   True
+가오리찜                , gt: 가오리찜                ,   True
+지지                  , gt: 지지                  ,   True
+연태고량주               , gt: 연태고량주               ,   True
+[280000/300000] valid loss: 0.11169 accuracy: 80.120, norm_ED: 2362.44
+best_accuracy: 80.179, best_norm_ED: 2347.83
+[282000/300000] Loss: 0.00272 elapsed_time: 64320.96552
+치킨빈달루               , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+우거지해장국              , gt: 우거지해장국              ,   True
+치킨무                 , gt: 치킨무                 ,   True
+굴비                  , gt: 굴비                  ,   True
+바다                  , gt: 바다                  ,   True
+[282000/300000] valid loss: 0.10971 accuracy: 80.028, norm_ED: 2370.62
+best_accuracy: 80.179, best_norm_ED: 2347.83
+[284000/300000] Loss: 0.00304 elapsed_time: 64775.86364
+로제돈까스               , gt: 로제돈까스               ,   True
+뭉티기                 , gt: 뭉티기                 ,   True
+요즈음                 , gt: 요즈음                 ,   True
+김치말이국수              , gt: 김치말이국수              ,   True
+세발낙지                , gt: 세발낙지                ,   True
+[284000/300000] valid loss: 0.11553 accuracy: 80.179, norm_ED: 2367.19
+best_accuracy: 80.179, best_norm_ED: 2347.83
+[286000/300000] Loss: 0.00280 elapsed_time: 65237.20928
+우정코스                , gt: 우정코스                ,   True
+삼계전복죽               , gt: 삼계전복죽               ,   True
+기기                  , gt: 기기                  ,   True
+왕족발                 , gt: 왕족발                 ,   True
+상차림                 , gt: 상차림                 ,   True
+[286000/300000] valid loss: 0.11326 accuracy: 79.995, norm_ED: 2371.26
+best_accuracy: 80.179, best_norm_ED: 2347.83
+[288000/300000] Loss: 0.00302 elapsed_time: 65688.34412
+맥주                  , gt: 맥주                  ,   True
+남매                  , gt: 남매                  ,   True
+알탕                  , gt: 알탕                  ,   True
+만두국                 , gt: 만두국                 ,   True
+나쁘다                 , gt: 나쁘다                 ,   True
+[288000/300000] valid loss: 0.11493 accuracy: 80.037, norm_ED: 2373.69
+best_accuracy: 80.179, best_norm_ED: 2347.83
+[290000/300000] Loss: 0.00285 elapsed_time: 66147.95208
+린데만스크림              , gt: 린데만스크릭              ,   False
+춘권                  , gt: 춘권                  ,   True
+모듬초밥20p+우동)         , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+음료수                 , gt: 음료수                 ,   True
+친안청국장               , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+[290000/300000] valid loss: 0.11044 accuracy: 80.062, norm_ED: 2364.51
+best_accuracy: 80.179, best_norm_ED: 2347.83
+[292000/300000] Loss: 0.00280 elapsed_time: 66605.83329
+즙다                  , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+틀림버이                , gt: 틀림없이                ,   False
+활발해지다               , gt: 활발해지다               ,   True
+오징어                 , gt: 오징어                 ,   True
+갈매기살                , gt: 갈매기살                ,   True
+[292000/300000] valid loss: 0.11600 accuracy: 80.087, norm_ED: 2372.76
+best_accuracy: 80.179, best_norm_ED: 2347.83
+[294000/300000] Loss: 0.00274 elapsed_time: 67053.85576
+매미킹주먹밥              , gt: 매미킴주먹밥              ,   False
+우유                  , gt: 우유                  ,   True
+고추참치김밥              , gt: 고추참치김밥              ,   True
+식혜                  , gt: 식혜                  ,   True
+연어롤                 , gt: 연어롤                 ,   True
+[294000/300000] valid loss: 0.11810 accuracy: 79.945, norm_ED: 2366.31
+best_accuracy: 80.179, best_norm_ED: 2347.83
+[296000/300000] Loss: 0.00281 elapsed_time: 67508.77434
+카라멜마끼아또             , gt: 카라멜마끼아또             ,   True
+부산꼬지어묵              , gt: 부산꼬지어묵              ,   True
+곰탕쌀국수               , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+날치알마끼초밥             , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+썸머인하바나              , gt: [GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO][GO,   False
+[296000/300000] valid loss: 0.11417 accuracy: 80.162, norm_ED: 2369.75
+best_accuracy: 80.179, best_norm_ED: 2347.83
+[298000/300000] Loss: 0.00282 elapsed_time: 67959.26667
+감자전                 , gt: 감자전                 ,   True
+왕만두                 , gt: 왕만두                 ,   True
+번데기탕                , gt: 번데기탕                ,   True
+청국장                 , gt: 청국장                 ,   True
+닭도리탕                , gt: 닭도리탕                ,   True
+[298000/300000] valid loss: 0.11574 accuracy: 80.078, norm_ED: 2361.96
+best_accuracy: 80.179, best_norm_ED: 2347.83
+[300000/300000] Loss: 0.00279 elapsed_time: 68414.36221
+계절생선                , gt: 계절생선                ,   True
+보호하다                , gt: 보호하다                ,   True
+스프라이트               , gt: 스프라이트               ,   True
+해물콩나물국밥             , gt: 해물콩나물국밥             ,   True
+울대                  , gt: 울대                  ,   True
+[300000/300000] valid loss: 0.12133 accuracy: 80.045, norm_ED: 2382.16
+best_accuracy: 80.179, best_norm_ED: 2347.83

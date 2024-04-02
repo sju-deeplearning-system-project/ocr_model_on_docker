@@ -1,0 +1,14 @@
+lmdb
+nltk
+natsort
+pillow==6.2.1
+requests>=2.20.0
+opencv-python>=4.2.0.32
+tqdm>=4.23.0
+beautifulsoup4>=4.6.0
+diffimg==0.2.3
+fire
+jiwer
+pandas
+openpyxl
+XlsxWriter
